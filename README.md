@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,supabase,postgres,nodejs,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,supabase,git" />
   </a>
 </p>
 
@@ -44,16 +44,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gotax24/gotax24/output/pacman-contribution-graph.svg">
   <img alt="Grafo de Contribuciones estilo Pac-Man" src="https://raw.githubusercontent.com/gotax24/gotax24/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-### 📫 ¿Hablamos?
-
-<p align="center">
-  <a href="mailto:dev.ejbr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://ve.linkedin.com/in/ernesto-bracho">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
