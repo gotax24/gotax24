@@ -4,7 +4,7 @@
 </p>
 <br>
 <p align="center">
-  Soy un Ingeniero en Computación de Maracaibo, Venezuela 🇻🇪, apasionado por el desarrollo de software y la creación de soluciones web modernas e intuitivas. Me especializo en el ecosistema de JavaScript, construyendo aplicaciones interactivas con React, proximamente Typescript, NextJs, NodeJs, PostgreSQL, MongoDB.
+  Soy un Ingeniero en Computación de Maracaibo, Venezuela 🇻🇪, apasionado por el desarrollo de software y la creación de soluciones web modernas e intuitivas. Me especializo en el ecosistema de JavaScript, construyendo aplicaciones interactivas con React.
 </p>
 <p align="center">
   Actualmente estoy enfocado en aplicar mis conocimientos para desarrollar herramientas que resuelvan problemas del mundo real, ademas de ser totalmente un programador fullstack
