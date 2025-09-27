@@ -23,7 +23,7 @@
 ---
 
 ### Herramientas que uso
-<p aling="center">  
+<p align="center">  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,git,vscode,figma,github,vercel,windows,yarn"/>
   </a>
@@ -32,7 +32,7 @@
 ---
 
 ### Futuras tecnologias
-<p aling="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,supabase,nodejs,express,nestjs,mysql,postgres,mongodb,graphql,docker"/>
   </a>
