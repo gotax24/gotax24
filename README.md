@@ -53,14 +53,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gotax24&theme=tokyonight&hide_border=true&area=true" height="300" alt="Grafo de Actividad"/>
 </p>
 
----
-
-### Mis Contribuciones al Estilo Retro
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gotax24/gotax24/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gotax24/gotax24/output/pacman-contribution-graph.svg">
-    <img alt="Grafo de Contribuciones estilo Pac-Man" src="https://raw.githubusercontent.com/gotax24/gotax24/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
