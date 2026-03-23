@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,php,docker,postgres" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 ### Herramientas que uso
 <p align="center">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,git,vscode,figma,github,vercel,windows,yarn"/>
+    <img src="https://skillicons.dev/icons?i=vite,git,vscode,github,vercel,windows,pnpm,linux"/>
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 ### Futuras tecnologias
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,supabase,nodejs,express,nestjs,mysql,postgres,mongodb,graphql,docker"/>
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nodejs,nestjs,mongodb"/>
   </a>
 </p>
 
