@@ -8,7 +8,7 @@
   Soy un Ingeniero en Computación radicado en Maracaibo, Venezuela 🇻🇪, apasionado por la arquitectura de software y la creación de soluciones web de extremo a extremo (End-to-End). 
 </p>
 <p align="center">
-  Mi enfoque se basa en construir aplicaciones escalables que resuelvan problemas reales de negocio. Domino tanto la interactividad moderna del <b>Frontend</b> (ecosistema JavaScript / React) como la lógica de servidor, estructuración de bases de datos y patrones de diseño en el <b>Backend</b>.
+  Mi enfoque se basa en construir aplicaciones escalables que resuelvan problemas reales de negocio. Domino tanto la interactividad moderna del <b>Frontend</b> (ecosistema JavaScript / React) como la lógica de servidor, estructuración de bases de datos y patrones de diseño en el <b>Backend</b> (PHP, SQL Server).
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,php,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,php" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 ### 🚀 Tecnologías en mi Roadmap (Aprendizaje Continuo)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tailwind,nodejs,nextjs,nestjs,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=ts,tailwind,nodejs,nextjs,nestjs,mongodb,postgres"/>
   </a>
 </p>
 
