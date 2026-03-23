@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,php,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,php,postgres" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 ### Herramientas que uso
 <p align="center">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,git,vscode,github,vercel,windows,pnpm,linux"/>
+    <img src="https://skillicons.dev/icons?i=vite,git,vscode,github,vercel,windows,pnpm,linux,docker"/>
   </a>
 </p>
 
