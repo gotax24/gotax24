@@ -1,43 +1,53 @@
 <h1 align="center">¡Hola! Soy Ernesto Bracho R. 👋</h1>
 <p align="center">
-  <em>Ingeniero en Computación | Desarrollador Frontend</em>
+  <em>Ingeniero en Computación | Desarrollador Fullstack</em>
 </p>
 <br>
+
 <p align="center">
-  Soy un Ingeniero en Computación de Maracaibo, Venezuela 🇻🇪, apasionado por el desarrollo de software y la creación de soluciones web modernas e intuitivas. Me especializo en el ecosistema de JavaScript, construyendo aplicaciones interactivas con React.
+  Soy un Ingeniero en Computación radicado en Maracaibo, Venezuela 🇻🇪, apasionado por la arquitectura de software y la creación de soluciones web de extremo a extremo (End-to-End). 
 </p>
 <p align="center">
-  Actualmente estoy enfocado en aplicar mis conocimientos para desarrollar herramientas que resuelvan problemas del mundo real, ademas de ser totalmente un programador fullstack
+  Mi enfoque se basa en construir aplicaciones escalables que resuelvan problemas reales de negocio. Domino tanto la interactividad moderna del <b>Frontend</b> (ecosistema JavaScript / React) como la lógica de servidor, estructuración de bases de datos y patrones de diseño en el <b>Backend</b>.
 </p>
 
 ---
 
-### Mi Stack Tecnológico
+### 💻 Mi Stack Tecnológico
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,php,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,php,postgres,mysql" />
   </a>
 </p>
 
 ---
 
-### Herramientas que uso
+### 🛠️ Herramientas y Entorno
 <p align="center">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,git,vscode,github,vercel,windows,pnpm,linux,docker"/>
+    <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,vscode,vite,vercel,pnpm"/>
+  </a>
+</p>
+<p align="center">
+  <em>Trabajando bajo entornos virtualizados (WSL / Docker) para garantizar la paridad con producción.</em>
+</p>
+
+---
+
+### 🚀 Tecnologías en mi Roadmap (Aprendizaje Continuo)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,tailwind,nodejs,nextjs,nestjs,mongodb"/>
   </a>
 </p>
 
 ---
 
-### Futuras tecnologias
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nodejs,nestjs,mongodb"/>
-  </a>
-</p>
-
+### 📈 Sobre mí actualmente:
+* 🏢 Liderando el desarrollo de sistemas de control de inventario y trazabilidad logística.
+* ⚙️ Migrando arquitecturas legacy hacia estándares modernos (Patrón MVC y desarrollo de APIs).
+* 📫 ¿Quieres contactarme?: **dev.ejbr@gmail.com**
 ---
 
 ### Mis Estadísticas en GitHub
