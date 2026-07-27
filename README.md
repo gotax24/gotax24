@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <em>Ingeniero en Computación | Desarrollador Web</em>
+  <em>Ingeniero en Computación | Analista IT & Desarrollador Web</em>
 </p>
 
 ---
@@ -23,46 +23,39 @@ Mi stack principal es **React + TypeScript** en Frontend y **Express/Supabase** 
 
 **Frontend**
 
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
   </a>
-</p>
 
 **Backend**
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,supabase" />
   </a>
-</p>
 
 **Base de Datos**
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
   </a>
-</p>
 
 **Herramientas**
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vite,vercel,pnpm,railway" />
   </a>
-</p>
 
 ---
 
 ### Experiencia
 
-**Analista IT & Desarrollador | CEVAZ** _(2024 - Presente)_
+**Analista IT & Desarrollador | CEVAZ** _(2025 - Presente)_
 
 - Refactorización de **cevaz-rm**: migré un backend TypeScript de 4000+ líneas en un solo archivo a una arquitectura de API modular y escalable.
 - Refactorización de **ICEVAZ** (sistema de inventario): migré una aplicación legacy PHP a arquitectura MVC con SQL Server, autenticación y generación de códigos QR para trazabilidad.
-- Automatización de registro de eventos: herramienta MVC en PHP + MySQL para gestionar eventos del centro.
-- Soporte técnico, mantenimiento preventivo de equipos y asistencia en talleres de reparación.
+- Automatización de registro de eventos: herramienta MVC en PHP + MySQL para gestionar eventos del centro (En desarrollo).
+- Soporte técnico, mantenimiento preventivo de equipos y asistencia en talleres/eventos.
 
 ---
 
