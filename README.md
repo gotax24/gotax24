@@ -17,14 +17,14 @@ Trabajo principalmente con **JavaScript (ES6+), React 19, Node.js / Express y PH
 
 ### Experiencia Destacada
 
-**Analista de TI | Desarrollador Full Stack — CEVAZ** *(sept. 2025 – actualidad)*
+**Analista de TI | Desarrollador Full Stack — CEVAZ** _(sept. 2025 – actualidad)_
 
 - **Modernización de Backend (`cevaz-rm`)**: Refactoricé de manera autónoma un código monolítico de +4.000 líneas hacia una arquitectura de API modular, escalable y mantenible.
 - **Actualización de Sistemas Legados (`ICEVAZ`)**: Ejecuté la migración completa del sistema de inventario institucional en PHP obsoleto hacia una arquitectura MVC robusta con Microsoft SQL Server, integrando autenticación segura y trazabilidad de activos físicos mediante códigos QR.
 - **Desarrollo de Soluciones (`Eventos CEVAZ`)**: Diseño y programación independiente de una plataforma automatizada en PHP y MySQL para la gestión integral de eventos, cupos por sede y reportes operativos.
 - **Gestión de Infraestructura**: Soporte técnico preventivo y correctivo para un parque de +120 estaciones de trabajo (Ubuntu/Windows), administración de bases de datos, servidores locales y sistemas de videovigilancia (CCTV).
 
-*(Trayectoria completa desde 2021 disponible en [gotax.dev](https://gotax.dev/#experiencia) y en [LinkedIn](https://www.linkedin.com/in/ernesto-bracho/)).*
+_(Trayectoria completa desde 2021 disponible en [gotax.dev](https://gotax.dev/#experiencia) y en [LinkedIn](https://www.linkedin.com/in/ernesto-bracho/))._
 
 ---
 
@@ -32,20 +32,20 @@ Trabajo principalmente con **JavaScript (ES6+), React 19, Node.js / Express y PH
 
 #### En Producción
 
-- **[Marago](https://marago.vercel.app)** *(Repositorio privado)*  
+- **[Marago](https://marago.vercel.app)** _(Repositorio privado)_  
   Menú digital interactivo con carrito de compras bimoneda (USD/Bs con tasa en tiempo real y caché local) y automatización de pedidos hacia WhatsApp. Construido con React 19, Vite y Zustand.
 - **[CriptoBro](https://criptobro.vercel.app)** · [Código](https://github.com/gotax24/criptobro)  
   Seguimiento del mercado de criptomonedas con gráficos históricos e integración de CoinGecko API, React 19, React Query, Chart.js y autenticación con Supabase.
-- **Sistemas Institucionales CEVAZ (`cevaz-rm`, `ICEVAZ`, `Eventos CEVAZ`)** *(Privados)*  
+- **Sistemas Institucionales CEVAZ (`cevaz-rm`, `ICEVAZ`, `Eventos CEVAZ`)** _(Privados)_  
   Plataformas internas en producción para gestión de recursos, control de inventario físico por QR y registro automatizado de eventos.
 
 #### En Desarrollo
 
-- **[Yalush](https://github.com/gotax24/Yalush)** · [Vista previa](https://yalush.vercel.app) *(En desarrollo)*  
+- **[Yalush](https://github.com/gotax24/Yalush)** · [Vista previa](https://yalush.vercel.app) _(En desarrollo)_  
   Monorepo Full Stack de comercio electrónico con Express 5, PostgreSQL, autenticación JWT + OAuth y cliente en React 19 con Zustand.
-- **Wallex** *(Repositorio privado · En desarrollo)*  
+- **Wallex** _(Repositorio privado · En desarrollo)_  
   Aplicación de finanzas personales multimoneda (VES / USD / USDT) en monorepo (`pnpm workspaces`) con React, Express y PostgreSQL sobre Docker.
-- **Biblioteca CEVAZ** *(Repositorio privado · En desarrollo)*  
+- **Biblioteca CEVAZ** _(Repositorio privado · En desarrollo)_  
   Sistema cliente-servidor con React 19, Express 5 y Microsoft SQL Server para gestión de catálogo bibliográfico y préstamos.
 
 ---
