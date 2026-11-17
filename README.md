@@ -1,116 +1,76 @@
-<h1 align="center">Ernesto Bracho R.</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Analista+IT+%7C+Desarrollador+Fullstack;Frontend+%7C+Backend+%7C+APIs" alt="Typing SVG" />
-</p>
+# Ernesto Bracho R.
 
-<p align="center">
-  <em>Ingeniero en Computación | Analista IT & Desarrollador Web</em>
-</p>
+**Ingeniero en Computación · Analista de TI & Desarrollador Full Stack**  
+Maracaibo, Estado Zulia, Venezuela · [gotax.dev](https://gotax.dev)
 
 ---
 
 ### Sobre mí
 
-Soy Ingeniero en Computación egresado de la URBE, radicado en Maracaibo, Venezuela. Desde febrero de 2024 inicié mi camino de especialización en desarrollo web, comenzando desde fundamentos de JavaScript hasta llegar a arquitecturas completas Frontend-Backend.
+Soy Ingeniero en Computación egresado de la **URBE**. Desde febrero de 2024 me especializo en desarrollo web, construyendo desde aplicaciones interactivas en el navegador hasta sistemas institucionales completos de Frontend, Backend y bases de datos relacionales.
 
-Actualmente trabajo como Analista IT en el CEVAZ, donde combino soporte técnico, mantenimiento de equipos y desarrollo de aplicaciones internas. Mi enfoque está en construir soluciones que resuelvan problemas reales de negocio.
+Actualmente me desempeño como **Analista de TI y Desarrollador Full Stack en el CEVAZ**, donde lidero la modernización de sistemas internos y gestiono la infraestructura tecnológica de la institución. Mi recorrido previo en atención al cliente, control de inventarios físicos, ventas tecnológicas e instalación de equipos en Venezuela y Chile me permite diseñar software práctico, enfocado en las personas reales que lo operan cada día.
 
-Mi stack principal es **React + TypeScript** en Frontend y **Express/Supabase** en Backend, con experiencia en **PostgreSQL, SQL Server y MySQL**. Trabajo con **Arch Linux** en mi computadora personal y **Ubuntu** en el trabajo.
-
----
-
-### Stack Tecnológico
-
-**Frontend**
-
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
-  </a>
-
-**Backend**
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,supabase" />
-  </a>
-
-**Base de Datos**
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-  </a>
-
-**Herramientas**
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vite,vercel,pnpm,railway" />
-  </a>
+Trabajo principalmente con **JavaScript (ES6+), React 19, Node.js / Express y PHP (MVC)** junto a **PostgreSQL, Microsoft SQL Server y MySQL**, utilizando **Arch Linux** en mi entorno personal y **Ubuntu** en producción/trabajo.
 
 ---
 
-### Experiencia
+### Experiencia Destacada
 
-**Analista IT & Desarrollador | CEVAZ** _(2025 - Presente)_
+**Analista de TI | Desarrollador Full Stack — CEVAZ** *(sept. 2025 – actualidad)*
 
-- Refactorización de **cevaz-rm**: migré un backend TypeScript de 4000+ líneas en un solo archivo a una arquitectura de API modular y escalable.
-- Refactorización de **ICEVAZ** (sistema de inventario): migré una aplicación legacy PHP a arquitectura MVC con SQL Server, autenticación y generación de códigos QR para trazabilidad.
-- Automatización de registro de eventos: herramienta MVC en PHP + MySQL para gestionar eventos del centro (En desarrollo).
-- Soporte técnico, mantenimiento preventivo de equipos y asistencia en talleres/eventos.
+- **Modernización de Backend (`cevaz-rm`)**: Refactoricé de manera autónoma un código monolítico de +4.000 líneas hacia una arquitectura de API modular, escalable y mantenible.
+- **Actualización de Sistemas Legados (`ICEVAZ`)**: Ejecuté la migración completa del sistema de inventario institucional en PHP obsoleto hacia una arquitectura MVC robusta con Microsoft SQL Server, integrando autenticación segura y trazabilidad de activos físicos mediante códigos QR.
+- **Desarrollo de Soluciones (`Eventos CEVAZ`)**: Diseño y programación independiente de una plataforma automatizada en PHP y MySQL para la gestión integral de eventos, cupos por sede y reportes operativos.
+- **Gestión de Infraestructura**: Soporte técnico preventivo y correctivo para un parque de +120 estaciones de trabajo (Ubuntu/Windows), administración de bases de datos, servidores locales y sistemas de videovigilancia (CCTV).
 
----
-
-### Proyectos Destacados
-
-**[CriptoBro](https://github.com/gotax24/criptobro)** - App de Criptomonedas
-
-> React + TypeScript + Supabase | CoinGecko API | Chart.js
-> OAuth, favoritos, modo oscuro/claro, diseño responsivo
-
-**[Yalush](https://github.com/gotax24/Yalush)** - Monorepo Fullstack _(en refactorización)_
-
-> Express 5 + TypeScript + PostgreSQL | React 19 + TypeScript + Zustand
-> Autenticación JWT + OAuth (Google/GitHub), Zod, React Query
-
-**[CDD-Chatbot](https://github.com/gotax24/CDD-Chatbot)** - Portal Hospitalario _(en refactorización)_
-
-> React 19 + Vite + Supabase (Auth, DB, Storage, Edge Functions)
-> Gestión de pacientes, informes médicos PDF y envío por WhatsApp
+*(Trayectoria completa desde 2021 disponible en [gotax.dev](https://gotax.dev/#experiencia) y en [LinkedIn](https://www.linkedin.com/in/ernesto-bracho/)).*
 
 ---
 
-### Actualmente
+### Proyectos y Sistemas
 
-- Profundizando en **TypeScript + React (TSX)** para Frontend moderno
-- Aprendiendo **Supabase** y **PHP** en el lado del servidor
-- Construyendo APIs con **TypeScript** (Express/Node)
+#### En Producción
+
+- **[Marago](https://marago.vercel.app)** *(Repositorio privado)*  
+  Menú digital interactivo con carrito de compras bimoneda (USD/Bs con tasa en tiempo real y caché local) y automatización de pedidos hacia WhatsApp. Construido con React 19, Vite y Zustand.
+- **[CriptoBro](https://criptobro.vercel.app)** · [Código](https://github.com/gotax24/criptobro)  
+  Seguimiento del mercado de criptomonedas con gráficos históricos e integración de CoinGecko API, React 19, React Query, Chart.js y autenticación con Supabase.
+- **Sistemas Institucionales CEVAZ (`cevaz-rm`, `ICEVAZ`, `Eventos CEVAZ`)** *(Privados)*  
+  Plataformas internas en producción para gestión de recursos, control de inventario físico por QR y registro automatizado de eventos.
+
+#### En Desarrollo
+
+- **[Yalush](https://github.com/gotax24/Yalush)** · [Vista previa](https://yalush.vercel.app) *(En desarrollo)*  
+  Monorepo Full Stack de comercio electrónico con Express 5, PostgreSQL, autenticación JWT + OAuth y cliente en React 19 con Zustand.
+- **Wallex** *(Repositorio privado · En desarrollo)*  
+  Aplicación de finanzas personales multimoneda (VES / USD / USDT) en monorepo (`pnpm workspaces`) con React, Express y PostgreSQL sobre Docker.
+- **Biblioteca CEVAZ** *(Repositorio privado · En desarrollo)*  
+  Sistema cliente-servidor con React 19, Express 5 y Microsoft SQL Server para gestión de catálogo bibliográfico y préstamos.
 
 ---
 
-### GitHub Stats
+### Stack y Herramientas
+
+- **Frontend:** JavaScript (ES6+), React 19, HTML5, CSS3, Zustand, React Query, Vite
+- **Backend:** Node.js, Express, PHP 8 (Arquitectura MVC), Supabase
+- **Bases de Datos:** PostgreSQL, Microsoft SQL Server, MySQL
+- **Infraestructura y Entorno:** Linux (Arch / Ubuntu), Docker, Git, GitHub, pnpm, Vercel, Railway, Administración de Servidores y Redes
+
+---
+
+### Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gotax24&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" height="170" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotax24&layout=compact&theme=tokyonight" height="170" alt="Lenguajes más usados"/>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=gotax24&locale=es&mode=weekly&theme=tokyonight" height="150" alt="Streak Stats Semanal"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gotax24&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" height="165" alt="Estadísticas de GitHub de gotax24" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotax24&layout=compact&theme=tokyonight" height="165" alt="Lenguajes más usados por gotax24" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gotax24&theme=tokyonight&hide_border=true&area=true" height="300" alt="Grafo de Actividad"/>
-</p>
 
 ---
 
 ### Contacto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ernesto-bracho/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dev.ejbr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/gotax.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+- **Portafolio Web:** [gotax.dev](https://gotax.dev)
+- **Email:** [ernesto@gotax.dev](mailto:ernesto@gotax.dev)
+- **LinkedIn:** [linkedin.com/in/ernesto-bracho](https://www.linkedin.com/in/ernesto-bracho/)
+- **Instagram:** [@gotax.dev](https://www.instagram.com/gotax.dev/)
