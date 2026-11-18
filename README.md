@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ernesto Bracho R
+# Ernesto Bracho R.
 
 **Ingeniero en Computación · Analista de TI & Desarrollador Full Stack**  
 Maracaibo, Estado Zulia, Venezuela
@@ -29,7 +29,7 @@ Antes de consolidarme en desarrollo de software, trabajé en atención al client
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-111318?style=flat-square&logo=php&logoColor=7aa2f7)
-![JavaScript](<https://img.shields.io/badge/JavaScript_(ES6+)-111318?style=flat-square&logo=javascript&logoColor=e0af68>)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-111318?style=flat-square&logo=javascript&logoColor=e0af68)
 ![React 19](https://img.shields.io/badge/React_19-111318?style=flat-square&logo=react&logoColor=4fd6be)
 ![Node.js](https://img.shields.io/badge/Node.js-111318?style=flat-square&logo=nodedotjs&logoColor=4fd6be)
 ![Express](https://img.shields.io/badge/Express-111318?style=flat-square&logo=express&logoColor=eef0f4)
@@ -38,7 +38,7 @@ Antes de consolidarme en desarrollo de software, trabajé en atención al client
 ![MySQL](https://img.shields.io/badge/MySQL-111318?style=flat-square&logo=mysql&logoColor=7aa2f7)
 ![HTML5](https://img.shields.io/badge/HTML5-111318?style=flat-square&logo=html5&logoColor=f0886c)
 ![CSS3](https://img.shields.io/badge/CSS3-111318?style=flat-square&logo=css3&logoColor=7aa2f7)
-![Linux](<https://img.shields.io/badge/Linux_(Arch_%2F_Ubuntu)-111318?style=flat-square&logo=linux&logoColor=e0af68>)
+![Linux](https://img.shields.io/badge/Linux_(Arch_%2F_Ubuntu)-111318?style=flat-square&logo=linux&logoColor=e0af68)
 ![Docker](https://img.shields.io/badge/Docker-111318?style=flat-square&logo=docker&logoColor=7aa2f7)
 ![Git](https://img.shields.io/badge/Git_%26_GitHub-111318?style=flat-square&logo=git&logoColor=f0886c)
 
@@ -49,14 +49,13 @@ Antes de consolidarme en desarrollo de software, trabajé en atención al client
 ## Experiencia Destacada
 
 ### **Analista de TI | Desarrollador Full Stack — CEVAZ** _(sept. 2025 – actualidad)_
-
 > _Maracaibo, Estado Zulia, Venezuela · Presencial_
 
 Responsable del desarrollo y modernización de los sistemas internos de la institución y de la operatividad tecnológica general, ejecutando con alta autonomía proyectos web de punta a punta y administrando la infraestructura TI.
 
-- **Modernización de Backend (`cevaz-rm`)**: Refactoricé un backend legado de +4.000 líneas en TypeScript/Node.js hacia una arquitectura API modular por capas (rutas, controladores y servicios), optimizando consultas SQL y mitigando _cold starts_ en PostgreSQL serverless (Neon).
-- **Reingeniería de Sistemas Legados (`ICEVAZ`)**: Reconstruí desde cero en 6 meses el sistema de inventario institucional hacia una arquitectura MVC limpia (`PHP` / `SQL Server`), integrando etiquetado QR, jerarquías multi-sede, control de transferencias y logs de auditoría.
 - **Desarrollo de Plataformas en Producción ([`Eventos CEVAZ`](https://eventos.cevaz.org/))**: Diseñé y desplegué en 2 meses el portal automatizado de eventos (`PHP` / `MySQL` / `MVC`) con control de roles en BD, validación de conflictos de horario/espacio, seguridad (_rate limiting_ y CAPTCHA) y reportes estadísticos, iterando sobre +30 requerimientos internos.
+- **Reingeniería de Sistemas Legados (`ICEVAZ`)**: Reconstruí desde cero en 6 meses el sistema de inventario institucional hacia una arquitectura MVC limpia (`PHP` / `SQL Server`), integrando etiquetado QR, jerarquías multi-sede, control de transferencias y logs de auditoría.
+- **Modernización de Backend (`cevaz-rm`)**: Refactoricé un backend legado de +4.000 líneas en TypeScript/Node.js hacia una arquitectura API modular por capas (rutas, controladores y servicios), optimizando consultas SQL y mitigando _cold starts_ en PostgreSQL serverless (Neon).
 - **Desarrollo de Sistema Bibliotecario (`Biblioteca CEVAZ`)**: Construyo la plataforma cliente-servidor para el catálogo bibliográfico y control de préstamos internos (`PHP` / `SQL Server` / `Docker`), estandarizando buenas prácticas con miras a su evolución hacia Laravel.
 - **Gestión de Infraestructura**: Soporte técnico preventivo y correctivo a +120 estaciones de trabajo (Ubuntu y Windows), mantenimiento de bases de datos y administración de servidores locales y sistemas de videovigilancia (CCTV).
 
@@ -66,49 +65,43 @@ Responsable del desarrollo y modernización de los sistemas internos de la insti
 
 ## Proyectos y Sistemas
 
-| Proyecto / Sistema      | Estado               | Stack Principal                              | Acceso                                                                              |
-| :---------------------- | :------------------- | :------------------------------------------- | :---------------------------------------------------------------------------------- |
-| **Eventos CEVAZ**       | `En producción`      | PHP · MySQL · MVC · Reportes                 | [eventos.cevaz.org](https://eventos.cevaz.org/) _(Código privado)_                  |
-| **ICEVAZ (Inventario)** | `Producción interna` | PHP · MVC · SQL Server · QR                  | _Institucional privado_                                                             |
-| **cevaz-rm (Recursos)** | `Producción interna` | Node.js · Express · TS · Neon                | _Institucional privado_                                                             |
-| **Marago**              | `En producción`      | React 19 · Zustand · Vite · DolarApi         | [marago.vercel.app](https://marago.vercel.app) _(Repo privado)_                     |
-| **CriptoBro**           | `En producción`      | React 19 · Supabase · React Query · Chart.js | [Demo](https://criptobro.vercel.app) · [Repo](https://github.com/gotax24/criptobro) |
-| **Wallex**              | `En desarrollo`      | React · Express · PostgreSQL · Docker        | _Repositorio privado_                                                               |
-| **Biblioteca CEVAZ**    | `En desarrollo`      | PHP · MVC · SQL Server · Docker · QR         | _Institucional privado_                                                             |
-| **Yalush**              | `En migración`       | React 19 · Zustand · Stripe · Node.js        | [Repo](https://github.com/gotax24/Yalush)                                           |
+| Proyecto / Sistema | Estado | Stack Principal | Acceso |
+| :--- | :--- | :--- | :--- |
+| **Eventos CEVAZ** | `En producción` | PHP · MySQL · MVC · Reportes | [eventos.cevaz.org](https://eventos.cevaz.org/) _(Código privado)_ |
+| **ICEVAZ (Inventario)** | `Producción interna` | PHP · MVC · SQL Server · QR | _Institucional privado_ |
+| **Wallex** | `En desarrollo` | React · Express · PostgreSQL · Docker | _Repositorio privado_ |
+| **Marago** | `En producción` | React 19 · Zustand · Vite · DolarApi | [marago.vercel.app](https://marago.vercel.app) _(Repo privado)_ |
+| **CriptoBro** | `En producción` | React 19 · Supabase · React Query · Chart.js | [Demo](https://criptobro.vercel.app) · [Repo](https://github.com/gotax24/criptobro) |
+| **cevaz-rm (Recursos)** | `Producción interna` | Node.js · Express · TS · Neon | _Institucional privado_ |
+| **Biblioteca CEVAZ** | `En desarrollo` | PHP · MVC · SQL Server · Docker · QR | _Institucional privado_ |
+| **Yalush** | `En migración` | React 19 · Zustand · Stripe · Node.js | [Repo](https://github.com/gotax24/Yalush) |
 
 <details>
 <summary><strong>Ver desglose técnico: El desafío y cómo resolví cada proyecto</strong></summary>
 <br />
 
 #### 1. `Eventos CEVAZ` — Plataforma de Gestión de Eventos Institucionales
-
 - **El desafío:** Reemplazar la gestión manual dispersa en Google Forms y Excel por un sistema centralizado con programación automática de fechas (publicación, apertura y cierre), recordatorios por correo, validaciones contra choques de horario/espacio y protección contra abuso (_rate limiting_ y CAPTCHA).
 - **Cómo lo hice:** Diseñé y llevé a producción en 2 meses una plataforma web en PHP y MySQL bajo arquitectura MVC limpia, integrando control de acceso por roles en BD, talleres privados y multi-sesión, y reportes estadísticos por departamento, iterando sobre más de 30 requerimientos.
 
 #### 2. `ICEVAZ` — Sistema de Inventario Institucional Multi-Sede
-
 - **El desafío:** Dotar a la institución de control de activos por código QR, jerarquías físicas (sede, área, departamento y espacio), transferencias y logs de auditoría, reemplazando una versión previa inviable por su código espagueti donde se mezclaban PHP, SQL, HTML, CSS y JS sin separación de responsabilidades.
 - **Cómo lo hice:** Reconstruí el sistema desde cero durante 6 meses migrando módulo por módulo hacia una arquitectura MVC limpia conectada a Microsoft SQL Server, desacoplando lógica de negocio, datos y vistas.
 
-#### 3. `cevaz-rm` — Sistema de Gestión de Recursos
-
-- **El desafío:** Un backend monolítico de +4.000 líneas en un solo archivo con alto acoplamiento, consultas SQL ineficientes y latencia por _cold starts_ en base de datos serverless (Neon).
-- **Cómo lo hice:** Lideré la refactorización en TypeScript hacia una arquitectura modular por capas (rutas, controladores y servicios) y optimicé las consultas SQL y el pool de conexiones para mitigar los _cold starts_.
+#### 3. `Wallex` — Finanzas Personales Multimoneda (VES / USD / USDT)
+- **El desafío:** Superar las limitaciones de las aplicaciones financieras existentes diseñando una plataforma propia adaptada a la realidad multimoneda y cambiaria de Venezuela.
+- **Cómo lo hice:** Estructuré un monorepo Full Stack (`pnpm workspaces`) con React, Express y PostgreSQL sobre Docker, escribiendo manualmente toda la arquitectura y lógica de negocio para consolidar dominio profundo del stack.
 
 #### 4. `Marago` — Menú Digital Interactivo Bimoneda
-
 - **El desafío:** Eliminar la fricción de menús estáticos en PDF y el cálculo manual de divisas, manteniendo alto rendimiento en móvil ante actualizaciones constantes del carrito.
 - **Cómo lo hice:** Desarrollé una app en React 19 que consulta la tasa oficial en tiempo real (DolarApi Venezuela), controla horarios de apertura del comercio y gestiona el carrito con Zustand (evitando re-renderizados globales de React Context), estructurando pedidos pickup/delivery directo a WhatsApp.
 
 #### 5. `CriptoBro` — Monitoreo de Criptomonedas en Tiempo Real
-
 - **El desafío:** Consultar datos financieros volátiles desde CoinGecko API sin saturar peticiones ni degradar la fluidez, sumando cuentas de usuario y favoritos en la nube.
 - **Cómo lo hice:** Integré autenticación OAuth (Google/GitHub) y persistencia en Supabase, caché de peticiones en cliente con React Query, estado global con Zustand y gráficos históricos con Chart.js.
 
-#### 6. `Wallex` & `Biblioteca CEVAZ` — Desarrollos Actuales
-
-- **Wallex:** Monorepo Full Stack (`pnpm workspaces`) con React, Express y PostgreSQL sobre Docker para finanzas personales multimoneda (VES/USD/USDT), escribiendo manualmente toda la arquitectura y lógica de negocio.
+#### 6. `cevaz-rm` & `Biblioteca CEVAZ` — Sistemas Internos Adicionales
+- **cevaz-rm:** Refactorización de un backend monolítico (+4.000 líneas) en TypeScript/Node.js hacia una arquitectura modular por capas, optimizando consultas SQL y mitigando _cold starts_ en Neon.
 - **Biblioteca CEVAZ:** Sistema cliente-servidor en PHP (MVC), SQL Server y Docker para administración de catálogo y préstamos internos, estandarizando la base para su posterior evolución a Laravel.
 
 </details>
